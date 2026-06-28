@@ -1,0 +1,8 @@
+strictness: high
+focus:
+  - security
+  - bugs
+ignore:
+  - suggestions
+max_comments: 2
+auto_approve_docs: true
